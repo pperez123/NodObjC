@@ -29,9 +29,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "ffi": "pperez123/node-ffi#node-12",
     "function-class": "^1.0.0",
-    "ref": "pperez123/ref#node-12",
     "ref-struct": "pperez123/ref-struct#node-12",
     "setprototypeof": "^1.0.0"
   },
