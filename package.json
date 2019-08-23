@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "function-class": "^1.0.0",
+    "function-class": "pperez123/node-function-class#node-12",
     "ref-struct": "pperez123/ref-struct#node-12",
     "setprototypeof": "^1.0.0"
   },
